@@ -1,69 +1,160 @@
-# 💫 About Me
-🔭 **I’m currently working on:** [SiteSentra](https://github.com/arayan11587kvrsodelhi-oss) and Sentinel SOC, building security-focused full-stack applications.
+ <div align="center">
 
-👯 **I’m looking to collaborate on:** Open-source cybersecurity tools, full-stack applications, and AI-powered security projects.
+<img src="https://www.gitskins.com/api/section/hero?username=arayan11587kvrsodelhi-oss&theme=matrix&style=aura" width="100%" alt="Aryan Sharma GitHub profile banner" />
 
-🤝 **I’m looking for help with:** Application security, backend architecture, and reliable production deployments.
+# ARYAN SHARMA
 
-🌱 **I’m currently learning:** Python, TypeScript, React, FastAPI, cloud security, and AI security.
+### Frontend Developer | React & TypeScript | BCA Student
 
-💬 **Ask me about:** Web development, Python, React, TypeScript, and cybersecurity projects.
+**Building responsive interfaces, full-stack applications and security-focused products.**
 
-⚡ **Fun fact:** I enjoy turning cybersecurity concepts into interactive applications.
+Delhi, India
 
-🌐 **Portfolio:** [aryan-sharma-portfolio-lake.vercel.app](https://aryan-sharma-portfolio-lake.vercel.app/)
+[GitHub](https://github.com/arayan11587kvrsodelhi-oss) · [LinkedIn](https://linkedin.com/in/aryan-sharma-7681a3380/) · [Email](mailto:arayan11587kvrsodelhi@gmail.com) · [Portfolio](https://aryan-sharma-portfolio-lake.vercel.app/)
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan._.5harma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sharma-7681a3380)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/arayan11587kvrsodelhi-oss)
-
-## 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Programming
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Databases & Backend Services
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=arayan11587kvrsodelhi-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=arayan11587kvrsodelhi-oss&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arayan11587kvrsodelhi-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=arayan11587kvrsodelhi-oss&color=0)](https://visitcount.itsvg.in)
+## About Me
+
+I'm a BCA student and developer interested in building practical web applications, security tools and interactive digital experiences.
+
+- Building frontend applications with React and TypeScript.
+- Developing backend services with Python, FastAPI and PostgreSQL.
+- Exploring application security, cloud security and threat intelligence.
+- Interested in clean architecture, responsive UI and meaningful user experiences.
+- Currently seeking Frontend / React Developer internship opportunities.
+
+## Technical Skills
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nextjs,vite&theme=dark" alt="Frontend technologies" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mysql,mongodb,supabase&theme=dark" alt="Backend technologies" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,figma,vscode&theme=dark" alt="Development tools" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### 01. Sentinel SOC — Security Operations Platform
+
+A security operations dashboard designed for incident investigation, real-time security events and threat intelligence.
+
+- React, TypeScript and Tailwind CSS.
+- FastAPI backend and WebSocket event streaming.
+- NVD, CISA KEV and MITRE ATT&CK integrations.
+- Security monitoring, investigation and audit logging.
+
+[Repository](https://github.com/arayan11587kvrsodelhi-oss/sentinel-soc) · [Live Application](https://sentinel-soc1.vercel.app/)
+
+### 02. SiteSentra — Website Security Scanner
+
+A website security-header analysis application that helps users understand and evaluate website security configurations.
+
+- Next.js, TypeScript and Tailwind CSS.
+- Neon PostgreSQL with Drizzle ORM.
+- Authentication and persistent scan reports.
+- Security-header analysis and structured findings.
+
+[Repository](https://github.com/arayan11587kvrsodelhi-oss/sitesentra-ai-saas) · [Live Application](https://sitesentra-ai-saas-lime.vercel.app/)
+
+### 03. VIGIL — Cloud Security Intelligence
+
+A cloud-security intelligence platform for monitoring, analyzing and visualizing security risks across cloud environments.
+
+- React and TypeScript frontend.
+- Python and FastAPI backend.
+- PostgreSQL persistence with SQLAlchemy.
+- Asset and vulnerability intelligence.
+
+[Repository](https://github.com/arayan11587kvrsodelhi-oss/vigil-cloud-security)
+
+### 04. Developer Portfolio
+
+A personal portfolio showcasing development projects, technical skills and certifications through a responsive animated interface.
+
+- React, TypeScript and Tailwind CSS.
+- GSAP and ScrollTrigger animations.
+- Interactive components and responsive layouts.
+
+[Repository](https://github.com/arayan11587kvrsodelhi-oss/aryan-portfolio-cinematic) · [Live Portfolio](https://aryan-sharma-portfolio-lake.vercel.app/)
+
+### 05. Typing Car Racing Game
+
+A browser-based typing and racing experience combining typing accuracy with interactive gameplay.
+
+- React and TypeScript.
+- Three.js and React Three Fiber.
+- Racing mechanics and interactive game environments.
+
+[Repository](https://github.com/arayan11587kvrsodelhi-oss/Typing-car-race) · [Live Game](https://3d-typing-racer-game-65ho7fvqv.vercel.app/)
+
+### 06. Nexus Dashboard
+
+A dashboard project focused on interface design, data presentation and interactive frontend development.
+
+[Repository](https://github.com/arayan11587kvrsodelhi-oss/nexus-dashboard) · [Live Application](https://nexus-dashboard-l1q3.onrender.com/)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=arayan11587kvrsodelhi-oss&theme=matrix&style=aura" width="100%" alt="GitHub statistics" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=arayan11587kvrsodelhi-oss&theme=matrix&style=aura" width="100%" alt="GitHub contribution activity" />
+
+</div>
+
+---
+
+## Certifications & Learning
+
+- EY — AI Fundamentals & Applications.
+- Red Team Leaders — CLLMSE.
+- IBM — Web Development Fundamentals.
+- EY × Microsoft — AI Passport.
+
+Currently expanding my knowledge of:
+
+`Python` · `TypeScript` · `React` · `FastAPI` · `Cloud Security` · `Application Security` · `AI Security`
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**
+
+Trinity Institute of Professional Studies (TIPS)  
+Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India.
+
+---
+
+## Let's Connect
+
+Interested in frontend engineering, cybersecurity, open-source collaboration and building useful products.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arayan11587kvrsodelhi-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sharma-7681a3380/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arayan11587kvrsodelhi@gmail.com)
+
+**Building useful things. Learning continuously. Shipping consistently.**
+
+</div>
